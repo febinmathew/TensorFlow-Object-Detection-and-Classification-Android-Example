@@ -1,0 +1,4 @@
+#Wed Mar 14 15:22:39 IST 2018
+base.0=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\dex\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex

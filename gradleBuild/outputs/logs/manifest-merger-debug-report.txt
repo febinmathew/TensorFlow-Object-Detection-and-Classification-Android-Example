@@ -1,0 +1,182 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+MERGED from [org.tensorflow:tensorflow-android:1.6.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.6.0.aar\0bb4e67fa79ffff47b4ecc1d11abb120\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1b0ae3ffc25c55d42c524eb15eba781d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\5cb009d21ca8c66933da7a65fb3e22b5\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\e912774c9908e9140f99cbb1e47600cb\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\60c68e92838a20142f62756ae22adbea\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\5afa791f381a5d7e1f99b012686189c0\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\AndroidManifest.xml:17:1-27:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+	package
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:19:5-34
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.CAMERA
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:21:5-65
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:21:22-62
+uses-feature#android.hardware.camera
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:22:5-60
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:22:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:23:5-70
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:23:19-67
+uses-sdk
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:26:5-28:41
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:26:5-28:41
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:26:5-28:41
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1b0ae3ffc25c55d42c524eb15eba781d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1b0ae3ffc25c55d42c524eb15eba781d\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\5cb009d21ca8c66933da7a65fb3e22b5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\5cb009d21ca8c66933da7a65fb3e22b5\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\e912774c9908e9140f99cbb1e47600cb\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\e912774c9908e9140f99cbb1e47600cb\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\AndroidManifest.xml:21:5-23:54
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\60c68e92838a20142f62756ae22adbea\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\60c68e92838a20142f62756ae22adbea\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\5afa791f381a5d7e1f99b012686189c0\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\5afa791f381a5d7e1f99b012686189c0\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\AndroidManifest.xml:21:5-23:58
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:26:5-28:41
+INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:26:5-28:41
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1b0ae3ffc25c55d42c524eb15eba781d\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:28:9-38
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:27:9-35
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+		INJECTED from E:\androidStudio\tensorflow-android\AndroidManifest.xml
+application
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:30:5-74:19
+MERGED from [org.tensorflow:tensorflow-android:1.6.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.6.0.aar\0bb4e67fa79ffff47b4ecc1d11abb120\AndroidManifest.xml:5:5-6:19
+MERGED from [org.tensorflow:tensorflow-android:1.6.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.6.0.aar\0bb4e67fa79ffff47b4ecc1d11abb120\AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\5cb009d21ca8c66933da7a65fb3e22b5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-11.8.0.aar\5cb009d21ca8c66933da7a65fb3e22b5\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\e912774c9908e9140f99cbb1e47600cb\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-11.8.0.aar\e912774c9908e9140f99cbb1e47600cb\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\60c68e92838a20142f62756ae22adbea\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\60c68e92838a20142f62756ae22adbea\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\5afa791f381a5d7e1f99b012686189c0\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-11.8.0.aar\5afa791f381a5d7e1f99b012686189c0\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\AndroidManifest.xml:25:5-20
+	android:supportsRtl
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:33:9-35
+	android:label
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:34:9-41
+	android:largeHeap
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:32:9-33
+	android:icon
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:35:9-39
+	android:allowBackup
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:31:9-35
+	android:theme
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:36:9-45
+activity#org.tensorflow.demo.DetectorActivity
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:47:9-55:16
+	android:screenOrientation
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:48:9-45
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:47:19-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:51:9-54:25
+action#android.intent.action.MAIN
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:52:13-65
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:52:21-62
+category#android.intent.category.LAUNCHER
+ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:53:13-73
+	android:name
+		ADDED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:53:23-70
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12 reason: tensorflow.contrib.android has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from E:\androidStudio\tensorflow-android\AndroidManifest.xml:18:1-76:12 reason: tensorflow.contrib.android requested WRITE_EXTERNAL_STORAGE
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:23:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:24:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\AndroidManifest.xml:30:13-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\AndroidManifest.xml:24:13-58

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-11.8.0.aar\1b0ae3ffc25c55d42c524eb15eba781d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aeca0a0ab86831ec59a54723205ce9341ac22d1b">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.2.0.aar\98ee2600c4346d09748c1d876addec27\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6a19bc783cbdb992876667ee12cfc95e\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-gass-11.8.0.aar\c9ddd62ab489d36f84eeef976d752194\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a7760a45a6c9f425aaa43ef391a8cf28a8bcb4a1">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.2.0.aar\cff242d515216d85bfa0ff8933de14b0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-11.8.0.aar\d12ca47a849468c391cca9f088c8d50d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="24cb9bae5fbe94df0f55d87452a291b69a2f22bf">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-compat-25.2.0.aar\5ac7e54114934f69d22dd1477326fe19\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\sdk24\androidstudio\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-v4-25.2.0.aar\3645f540e1cb5ab2d2bb94f57ad33816\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-fragment-25.2.0.aar\1de676062609f3b03fb950a6ad8864c6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.2.0.aar\8d3f0b3f0176051837043d351c280019\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Febin Mathew\.gradle\caches\transforms-1\files-1.1\tensorflow-android-1.6.0.aar\0bb4e67fa79ffff47b4ecc1d11abb120\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9e625ab30c16539eef67f232aebb5ece06d8e713">
+        <dex dex="E:\androidStudio\tensorflow-android\gradleBuild\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+
+</items>

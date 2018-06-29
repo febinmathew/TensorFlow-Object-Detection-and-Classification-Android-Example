@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon2.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xhdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon2.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-mdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_action_info.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-hdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_camera_connection_fragment_tracking.xml.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\layout\\camera_connection_fragment_tracking.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable_border.xml.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_list_text_item.xml.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\layout\\list_text_item.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_icon2.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xxhdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon2.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-hdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_action_info.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-hdpi_tile.9.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-hdpi\\tile.9.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\layout_activity_camera.xml.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_action_info.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-xxhdpi\\ic_action_info.png"
+    },
+    {
+        "merged": "E:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_info.png.flat",
+        "source": "E:\\androidStudio\\tensorflow-android\\res\\drawable-mdpi\\ic_action_info.png"
+    }
+]

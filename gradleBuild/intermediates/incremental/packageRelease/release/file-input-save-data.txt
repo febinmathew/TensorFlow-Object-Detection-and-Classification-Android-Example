@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Wed Mar 14 15:22:39 IST 2018
+7.path=BUILD
+2.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\assets\\release
+5.set=NATIVE_RESOURCE
+0.path=classes.dex
+2.baseType=DIRECTORY
+3.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\release\\0
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=lib/armeabi-v7a/libtensorflow_inference.so
+4.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\assets\\release
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=ssd_mobilenet_v1_android_export.pb
+5.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\release\\0
+4.set=ASSET
+3.path=lib/x86/libtensorflow_inference.so
+6.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\release\\0
+3.baseType=DIRECTORY
+1.set=NATIVE_RESOURCE
+4.path=coco_labels_list.txt
+7.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\assets\\release
+6.set=NATIVE_RESOURCE
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=lib/x86_64/libtensorflow_inference.so
+0.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\dex\\release\\0
+0.baseType=DIRECTORY
+3.set=NATIVE_RESOURCE
+6.path=lib/arm64-v8a/libtensorflow_inference.so
+1.base=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\mergeJniLibs\\release\\0
+4.baseType=DIRECTORY
+0.set=DEX

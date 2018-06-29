@@ -1,0 +1,4 @@
+#Wed Mar 14 15:43:57 IST 2018
+base.0=E\:\\androidStudio\\tensorflow-android\\gradleBuild\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

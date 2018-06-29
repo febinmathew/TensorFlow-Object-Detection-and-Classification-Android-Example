@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hash.tf.objectdetection.test">
+
+    <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="25" />
+
+    <application android:debuggable="true" >
+        <uses-library android:name="android.test.runner" />
+    </application>
+
+    <instrumentation android:name="android.test.InstrumentationTestRunner"
+                     android:targetPackage="hash.tf.objectdetection"
+                     android:handleProfiling="false"
+                     android:functionalTest="false"
+                     android:label="Tests for hash.tf.objectdetection"/>
+</manifest>
